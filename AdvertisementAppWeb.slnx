@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AdvertisementApp.Business/AdvertisementApp.Business.csproj" Id="d87fc0a0-ed37-4619-8e93-76a43e88c624" />
+  <Project Path="AdvertisementApp.DataAccess/AdvertisementApp.DataAccess.csproj" Id="2cc22cdd-c737-41e8-8b24-e0fce509948f" />
+  <Project Path="AdvertisementApp.Dtos/AdvertisementApp.Dtos.csproj" Id="a71f01c9-39c6-4151-ae11-433782ddb6ec" />
+  <Project Path="AdvertisementApp.UI/AdvertisementApp.UI.csproj" Id="38c4c977-2e75-4e60-87df-5ffb6db81440" />
+  <Project Path="AdvertismentApp.Common/AdvertismentApp.Common.csproj" />
+  <Project Path="AdvertismentApp.Entities/AdvertismentApp.Entities.csproj" />
+</Solution>

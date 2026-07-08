@@ -1,0 +1,83 @@
+﻿@model List<ProvidedServiceListDto>
+@{
+    Layout = "_Layout";
+}
+@*  i tek çift? *@
+
+
+<header class="masthead text-center text-white">
+    <div class="masthead-content">
+        <div class="container px-5">
+
+            <h1 class="masthead-heading mb-0">
+                NovaTech Yazılım
+            </h1>
+
+            <h2 class="masthead-subheading mb-0">
+                Web, Mobil ve Kurumsal Yazılım Çözümleri
+            </h2>
+
+            <p class="mt-4 lead">
+                İş süreçlerinizi dijitalleştiren modern teknoloji çözümleri geliştiriyoruz.
+            </p>
+
+            <a class="btn btn-light btn-xl rounded-pill mt-4" href="#services">
+                Hizmetlerimizi Keşfet
+            </a>
+
+        </div>
+    </div>
+
+    <div class="bg-circle-1 bg-circle"></div>
+    <div class="bg-circle-2 bg-circle"></div>
+    <div class="bg-circle-3 bg-circle"></div>
+    <div class="bg-circle-4 bg-circle"></div>
+</header>
+
+
+<section id="services" class="py-5">
+
+@for (int i = 0; i < Model?.Count; i++)
+{
+    <div class="container px-5 my-5">
+
+        <div class="row gx-5 align-items-center">
+
+            <div class="col-lg-6 @(i % 2 == 0 ? "order-lg-2" : "")">
+
+                <div class="p-4">
+                    <img class="img-fluid rounded shadow-lg"
+                         src="@Model[i].ImagePath"
+                         alt="@Model[i].Title" />
+                </div>
+
+            </div>
+
+
+            <div class="col-lg-6 @(i % 2 == 0 ? "order-lg-1" : "")">
+
+                <div class="p-5">
+
+                    <h2 class="display-5 fw-bold text-primary">
+                        @Model[i].Title
+                    </h2>
+
+                    <p class="lead text-muted mt-3">
+                        @Model[i].Description
+                    </p>
+
+
+                    <a href="#" class="btn btn-outline-primary rounded-pill mt-3">
+                        Detayları Gör
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+}
+
+</section>

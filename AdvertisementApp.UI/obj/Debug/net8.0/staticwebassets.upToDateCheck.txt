@@ -1,0 +1,8 @@
+wwwroot\Css\styles.css
+wwwroot\Themes\startbootstrap-one-page-wonder-gh-pages.zip
+wwwroot\Themes\startbootstrap-one-page-wonder-gh-pages\assets\favicon.ico
+wwwroot\Themes\startbootstrap-one-page-wonder-gh-pages\index.html
+wwwroot\images\01.jpg
+wwwroot\images\02.jpg
+wwwroot\images\03.jpg
+wwwroot\js\scripts.js

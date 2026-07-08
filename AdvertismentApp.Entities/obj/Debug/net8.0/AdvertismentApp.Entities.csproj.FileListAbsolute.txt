@@ -1,0 +1,11 @@
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\bin\Debug\net8.0\AdvertismentApp.Entities.deps.json
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\bin\Debug\net8.0\AdvertismentApp.Entities.dll
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\bin\Debug\net8.0\AdvertismentApp.Entities.pdb
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\obj\Debug\net8.0\AdvertismentApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\obj\Debug\net8.0\AdvertismentApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\obj\Debug\net8.0\AdvertismentApp.Entities.AssemblyInfo.cs
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\obj\Debug\net8.0\AdvertismentApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\obj\Debug\net8.0\AdvertismentApp.Entities.dll
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\obj\Debug\net8.0\refint\AdvertismentApp.Entities.dll
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\obj\Debug\net8.0\AdvertismentApp.Entities.pdb
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Entities\obj\Debug\net8.0\ref\AdvertismentApp.Entities.dll

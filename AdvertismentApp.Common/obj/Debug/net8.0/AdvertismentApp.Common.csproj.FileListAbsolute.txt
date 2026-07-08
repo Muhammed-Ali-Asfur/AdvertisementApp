@@ -1,0 +1,11 @@
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\bin\Debug\net8.0\AdvertismentApp.Common.deps.json
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\bin\Debug\net8.0\AdvertismentApp.Common.dll
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\bin\Debug\net8.0\AdvertismentApp.Common.pdb
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\obj\Debug\net8.0\AdvertismentApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\obj\Debug\net8.0\AdvertismentApp.Common.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\obj\Debug\net8.0\AdvertismentApp.Common.AssemblyInfo.cs
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\obj\Debug\net8.0\AdvertismentApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\obj\Debug\net8.0\AdvertismentApp.Common.dll
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\obj\Debug\net8.0\refint\AdvertismentApp.Common.dll
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\obj\Debug\net8.0\AdvertismentApp.Common.pdb
+C:\Users\Ali\Desktop\c++2\18_MVC\04_AdvertismentAppWeb\AdvertisementAppWeb\AdvertismentApp.Common\obj\Debug\net8.0\ref\AdvertismentApp.Common.dll
